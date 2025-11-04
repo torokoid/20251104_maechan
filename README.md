@@ -193,7 +193,10 @@ p.note { display: none; }
     
 <h2><span class="yellow">仏像様はまだ新しい様で、GoogleMapsではまだ居られません</span></h2>
 <a href="20251104_012.JPG" target="_blank"><img src="20251104_012.JPG" alt="サンプル画像" class="responsive-media"></a>
-    
+
+<h2><span class="yellow">GoogleMapsの画像、クリックで地図に飛びます↓</span></h2>
+<a href="https://maps.app.goo.gl/6V1SzHve7TN5p5v96" target="_blank"><img src="20251104_001.png" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">ショッピングモールのイベント広場、5日の宗教イベントの準備中</span></h2>
 <a href="20251104_013.JPG" target="_blank"><img src="20251104_013.JPG" alt="サンプル画像" class="responsive-media"></a>
     
