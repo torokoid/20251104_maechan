@@ -336,7 +336,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/11/03 S,Hada @Mae Chan</p>
+<p>Copyright 2025/11/04 S,Hada @Mae Chan</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
